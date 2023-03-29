@@ -1,0 +1,11 @@
+********<<<<<<<  Syntax fro projection   >>>> ******
+-------------------------------------------------------
+
+Select *  /Column Name /Expression /[Distrinct] /alias name 
+ from Table_name;
+ 
+ 
+ 
+ Example::--- Questions:   Waqtd all the Employee details....
+ ------------
+ select * from emp;
